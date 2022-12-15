@@ -1,0 +1,1710 @@
+{
+    "name": "Juggernaut vs 1 rated schools",
+    "startingYear": 2022,
+    "startingMessage": "Hello!",
+    "bowlGames": [
+        {
+            "name": "Lilac Bowl",
+            "zipcode": "91103"
+        },
+        {
+            "name": "Dolphin Bowl",
+            "zipcode": "33125"
+        },
+        {
+            "name": "Cowboy Bowl",
+            "zipcode": "76011"
+        },
+        {
+            "name": "President's Bowl",
+            "zipcode": "20004"
+        },
+        {
+            "name": "Hawaii Bowl",
+            "zipcode": "96813"
+        },
+        {
+            "name": "Desert Bowl",
+            "zipcode": "85004"
+        },
+        {
+            "name": "Hollywood Bowl",
+            "zipcode": "90012"
+        },
+        {
+            "name": "Broadway Bowl",
+            "zipcode": "07073"
+        },
+        {
+            "name": "Vegas Bowl",
+            "zipcode": "89101"
+        },
+        {
+            "name": "Pioneer Bowl",
+            "zipcode": "63110"
+        },
+        {
+            "name": "Tech Bowl",
+            "zipcode": "94117"
+        },
+        {
+            "name": "Mountain Bowl",
+            "zipcode": "80205"
+        },
+        {
+            "name": "Civil Rights Bowl",
+            "zipcode": "30313"
+        },
+        {
+            "name": "Alamo Bowl",
+            "zipcode": "78205"
+        },
+        {
+            "name": "Country Music Bowl",
+            "zipcode": "37208"
+        },
+        {
+            "name": "Jazz Bowl",
+            "zipcode": "70116"
+        },
+        {
+            "name": "Patriot Bowl",
+            "zipcode": "02215"
+        },
+        {
+            "name": "Pirate Bowl",
+            "zipcode": "33607"
+        },
+        {
+            "name": "Rainier Bowl",
+            "zipcode": "98195"
+        },
+        {
+            "name": "Rust Bowl",
+            "zipcode": "48201"
+        }
+    ],
+    "conferences": [
+        {
+            "name": "SEC",
+            "prestigeLevel": 1,
+            "zipcode": "30313",
+            "divisions": [
+                {
+                    "name": "East",
+                    "teams": [
+                        {
+                            "abbreviation": "FL",
+                            "name": "Florida",
+                            "mascot": "Gators",
+                            "primaryColor": "#0037ff",
+                            "secondaryColor": "#fc4903",
+                            "zipcode": "32611",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "GA"
+                        },
+                        {
+                            "abbreviation": "GA",
+                            "name": "Georgia",
+                            "mascot": "Bulldogs",
+                            "primaryColor": "#BA0C2F",
+                            "secondaryColor": "#000000",
+                            "zipcode": "30601",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "FL"
+                        },
+                        {
+                            "abbreviation": "KEN",
+                            "name": "Kentucky",
+                            "mascot": "Wildcats",
+                            "primaryColor": "#0033A0",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "40502",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "TEN"
+                        },
+                        {
+                            "abbreviation": "MIZ",
+                            "name": "Missouri",
+                            "mascot": "Tigers",
+                            "primaryColor": "#000000",
+                            "secondaryColor": "#F1B82D",
+                            "zipcode": "65201",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "S CAR"
+                        },
+                        {
+                            "abbreviation": "S CAR",
+                            "name": "South Carolina",
+                            "mascot": "Gamecocks",
+                            "primaryColor": "#73000A",
+                            "secondaryColor": "#000000",
+                            "zipcode": "29201",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "GA"
+                        },
+                        {
+                            "abbreviation": "TEN",
+                            "name": "Tennessee",
+                            "mascot": "Volunteers",
+                            "primaryColor": "#FF8200",
+                            "secondaryColor": "#58595B",
+                            "zipcode": "37901",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "FL"
+                        },
+                        {
+                            "abbreviation": "VAN",
+                            "name": "Vanderbilt",
+                            "mascot": "Commodores",
+                            "primaryColor": "#000000",
+                            "secondaryColor": "#866D4B",
+                            "zipcode": "37201",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "TEN"
+                        }
+                    ]
+                },
+                {
+                    "name": "West",
+                    "teams": [
+                        {
+                            "abbreviation": "BAMA",
+                            "name": "Alabama",
+                            "mascot": "Crimson Tide",
+                            "primaryColor": "#9E1B32",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "35401",
+                            "attributes": {
+                                "prestige": 10,
+                                "facilities": 10,
+                                "stadium": 10,
+                                "collegeLife": 10,
+                                "academics": 10,
+                                "marketing": 10,
+                                "attendance": 80000,
+                                "fanbaseLevel": 10
+                            },
+                            "rivalAbbreviation": "AUB"
+                        },
+                        {
+                            "abbreviation": "ARK",
+                            "name": "Arkansas",
+                            "mascot": "Razorbacks",
+                            "primaryColor": "#9D2235",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "72701",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "LSU"
+                        },
+                        {
+                            "abbreviation": "AUB",
+                            "name": "Auburn",
+                            "mascot": "Tigers",
+                            "primaryColor": "#0C2340",
+                            "secondaryColor": "#E87722",
+                            "zipcode": "36830",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "BAMA"
+                        },
+                        {
+                            "abbreviation": "LSU",
+                            "name": "LSU",
+                            "mascot": "Tigers",
+                            "primaryColor": "#461D7C",
+                            "secondaryColor": "#FDD023",
+                            "zipcode": "70801",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "BAMA"
+                        },
+                        {
+                            "abbreviation": "MISS",
+                            "name": "Ole Miss",
+                            "mascot": "Rebels",
+                            "primaryColor": "#14213D",
+                            "secondaryColor": "#CE1126",
+                            "zipcode": "38655",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MSST"
+                        },
+                        {
+                            "abbreviation": "MSST",
+                            "name": "Mississippi State",
+                            "mascot": "Bulldogs",
+                            "primaryColor": "#660000",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "39759",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MISS"
+                        },
+                        {
+                            "abbreviation": "TA&M",
+                            "name": "Texas A&M",
+                            "mascot": "Aggies",
+                            "primaryColor": "#500000",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "77840",
+                            "attributes": {
+                                "prestige": 1,
+                                "facilities": 1,
+                                "stadium": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ARK"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Big Ten",
+            "prestigeLevel": 2,
+            "zipcode": "46201",
+            "divisions": [
+                {
+                    "name": "East",
+                    "teams": [
+                        {
+                            "abbreviation": "IND",
+                            "name": "Indiana",
+                            "mascot": "Hoosiers",
+                            "primaryColor": "#990000",
+                            "secondaryColor": "#EDEBEB",
+                            "zipcode": "47401",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "RUT"
+                        },
+                        {
+                            "abbreviation": "MD",
+                            "name": "Maryland",
+                            "mascot": "Terrapins",
+                            "primaryColor": "#E21833",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "20740",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "PENN"
+                        },
+                        {
+                            "abbreviation": "MICH",
+                            "name": "Michigan",
+                            "mascot": "Wolverines",
+                            "primaryColor": "#FFCB05",
+                            "secondaryColor": "#00274C",
+                            "zipcode": "48103",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "OSU"
+                        },
+                        {
+                            "abbreviation": "MSU",
+                            "name": "Michigan State",
+                            "mascot": "Spartans",
+                            "primaryColor": "#173F35",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "48823",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MICH"
+                        },
+                        {
+                            "abbreviation": "OSU",
+                            "name": "Ohio State",
+                            "mascot": "Buckeyes",
+                            "primaryColor": "#CE0F3D",
+                            "secondaryColor": "#B0B7BC",
+                            "zipcode": "43210",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MICH"
+                        },
+                        {
+                            "abbreviation": "PENN",
+                            "name": "Penn State",
+                            "mascot": "Nittany Lions",
+                            "primaryColor": "#001E44",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "16801",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MSU"
+                        },
+                        {
+                            "abbreviation": "RUT",
+                            "name": "Rutgers",
+                            "mascot": "Scarlet Knight",
+                            "primaryColor": "#CC0033",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "08854",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "IND"
+                        }
+                    ]
+                },
+                {
+                    "name": "West",
+                    "teams": [
+                        {
+                            "abbreviation": "ILL",
+                            "name": "Illinois",
+                            "mascot": "Fighting Illini",
+                            "primaryColor": "#E84A27",
+                            "secondaryColor": "#13294B",
+                            "zipcode": "61801",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "NW"
+                        },
+                        {
+                            "abbreviation": "NW",
+                            "name": "Northwestern",
+                            "mascot": "Wildcats",
+                            "primaryColor": "#4E2A84",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "60208",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ILL"
+                        },
+                        {
+                            "abbreviation": "IOWA",
+                            "name": "Iowa",
+                            "mascot": "Hawkeyes",
+                            "primaryColor": "#000000",
+                            "secondaryColor": "#FCD116",
+                            "zipcode": "52242",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MINN"
+                        },
+                        {
+                            "abbreviation": "MINN",
+                            "name": "Minnesota",
+                            "mascot": "Golden Gophers",
+                            "primaryColor": "#5B0013",
+                            "secondaryColor": "#FFB71E",
+                            "zipcode": "55455",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "WISC"
+                        },
+                        {
+                            "abbreviation": "NEB",
+                            "name": "Nebraska",
+                            "mascot": "Cornhuskers",
+                            "primaryColor": "#E41C38",
+                            "secondaryColor": "#FDF2D9",
+                            "zipcode": "68588",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "IOWA"
+                        },
+                        {
+                            "abbreviation": "PUR",
+                            "name": "Purdue",
+                            "mascot": "Boilermakers",
+                            "primaryColor": "#CFB991",
+                            "secondaryColor": "#000000",
+                            "zipcode": "47907",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "IOWA"
+                        },
+                        {
+                            "abbreviation": "WISC",
+                            "name": "Wisconsin",
+                            "mascot": "Badgers",
+                            "primaryColor": "#C4012F",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "53706",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MINN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Big Twelve",
+            "prestigeLevel": 3,
+            "zipcode": "75050",
+            "divisions": [
+                {
+                    "name": "Prairie",
+                    "teams": [
+                        {
+                            "abbreviation": "BAY",
+                            "name": "Baylor",
+                            "mascot": "Bears",
+                            "primaryColor": "#154734",
+                            "secondaryColor": "#FFB81C",
+                            "zipcode": "76706",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "TCU"
+                        },
+                        {
+                            "abbreviation": "ISU",
+                            "name": "Iowa State",
+                            "mascot": "Cyclones",
+                            "primaryColor": "#822433",
+                            "secondaryColor": "#FDCA2F",
+                            "zipcode": "50011",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "KSU"
+                        },
+                        {
+                            "abbreviation": "KAN",
+                            "name": "Kansas",
+                            "mascot": "Jayhawks",
+                            "primaryColor": "#E8000D",
+                            "secondaryColor": "#0051BA",
+                            "zipcode": "66045",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "KSU"
+                        },
+                        {
+                            "abbreviation": "KSU",
+                            "name": "Kansas State",
+                            "mascot": "Wildcats",
+                            "primaryColor": "#330A57",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "66506",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "KAN"
+                        },
+                        {
+                            "abbreviation": "OKL",
+                            "name": "Oklahoma",
+                            "mascot": "Sooners",
+                            "primaryColor": "#841617",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "73019",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "TEX"
+                        },
+                        {
+                            "abbreviation": "OK ST",
+                            "name": "Oklahoma State",
+                            "mascot": "Cowboys",
+                            "primaryColor": "#FE5C00",
+                            "secondaryColor": "#000000",
+                            "zipcode": "74075",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "OKL"
+                        },
+                        {
+                            "abbreviation": "TCU",
+                            "name": "TCU",
+                            "mascot": "Horned Frogs",
+                            "primaryColor": "#4D1979",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "76129",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "BAY"
+                        },
+                        {
+                            "abbreviation": "TEX",
+                            "name": "Texas",
+                            "mascot": "Longhorns",
+                            "primaryColor": "#BF5700",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "78712",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "OKL"
+                        },
+                        {
+                            "abbreviation": "T Tech",
+                            "name": "Texas Tech",
+                            "mascot": "Red Raiders",
+                            "primaryColor": "#CC0000",
+                            "secondaryColor": "#000000",
+                            "zipcode": "79409",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "TCU"
+                        },
+                        {
+                            "abbreviation": "WV",
+                            "name": "West Virginia",
+                            "mascot": "Mountaineers",
+                            "primaryColor": "#EAAA00",
+                            "secondaryColor": "#002855",
+                            "zipcode": "26505",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "BAY"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pac-12",
+            "prestigeLevel": 5,
+            "zipcode": "89118",
+            "divisions": [
+                {
+                    "name": "North",
+                    "teams": [
+                        {
+                            "abbreviation": "ORE",
+                            "name": "Oregon",
+                            "mascot": "Ducks",
+                            "primaryColor": "#036936",
+                            "secondaryColor": "#FEE11A",
+                            "zipcode": "97403",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ORE S"
+                        },
+                        {
+                            "abbreviation": "ORE S",
+                            "name": "Oregon State",
+                            "mascot": "Beavers",
+                            "primaryColor": "#D73F09",
+                            "secondaryColor": "#000000",
+                            "zipcode": "97331",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ORE"
+                        },
+                        {
+                            "abbreviation": "WASH",
+                            "name": "Washington",
+                            "mascot": "Huskies",
+                            "primaryColor": "#4B2E83",
+                            "secondaryColor": "#B7A57A",
+                            "zipcode": "98195",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "WSU"
+                        },
+                        {
+                            "abbreviation": "WSU",
+                            "name": "Washington State",
+                            "mascot": "Cougars",
+                            "primaryColor": "#981E32",
+                            "secondaryColor": "#53565A",
+                            "zipcode": "99163",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "WASH"
+                        },
+                        {
+                            "abbreviation": "CAL",
+                            "name": "California",
+                            "mascot": "Golden Bears",
+                            "primaryColor": "#041E42",
+                            "secondaryColor": "#FFC72C",
+                            "zipcode": "94720",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "STAN"
+                        },
+                        {
+                            "abbreviation": "STAN",
+                            "name": "Stanford",
+                            "mascot": "Cardinal",
+                            "primaryColor": "#8C1515",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "94305",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "CAL"
+                        },
+                        {
+                            "abbreviation": "HAW",
+                            "name": "Hawaii",
+                            "mascot": "Rainbow",
+                            "primaryColor": "#024731",
+                            "secondaryColor": "#C8C8C8",
+                            "zipcode": "96822",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "CAL"
+                        }
+                    ]
+                },
+                {
+                    "name": "South",
+                    "teams": [
+                        {
+                            "abbreviation": "AZ",
+                            "name": "Arizona",
+                            "mascot": "Wildcats",
+                            "primaryColor": "#C10230",
+                            "secondaryColor": "#00205C",
+                            "zipcode": "85719",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ASU"
+                        },
+                        {
+                            "abbreviation": "ASU",
+                            "name": "Arizona State",
+                            "mascot": "Sun Devils",
+                            "primaryColor": "#7D2248",
+                            "secondaryColor": "#FFC72C",
+                            "zipcode": "85287",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "AZ"
+                        },
+                        {
+                            "abbreviation": "COL",
+                            "name": "Colorado",
+                            "mascot": "Buffaloes",
+                            "primaryColor": "#CFB87C",
+                            "secondaryColor": "#000000",
+                            "zipcode": "80305",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "UTAH"
+                        },
+                        {
+                            "abbreviation": "UTAH",
+                            "name": "Utah",
+                            "mascot": "Utes",
+                            "primaryColor": "#CC0000",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "84112",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "COL"
+                        },
+                        {
+                            "abbreviation": "UCLA",
+                            "name": "UCLA",
+                            "mascot": "Bruins",
+                            "primaryColor": "#2774Ae",
+                            "secondaryColor": "#F2A900",
+                            "zipcode": "90095",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "USC"
+                        },
+                        {
+                            "abbreviation": "USC",
+                            "name": "USC",
+                            "mascot": "Trojans",
+                            "primaryColor": "#9D2235",
+                            "secondaryColor": "#FFC72C",
+                            "zipcode": "90089",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "UCLA"
+                        },
+                        {
+                            "abbreviation": "SAM",
+                            "name": "American Samoa",
+                            "mascot": "Samoans",
+                            "primaryColor": "#00750f",
+                            "secondaryColor": "#ff8b8b",
+                            "zipcode": "96799",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "COL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ACC",
+            "prestigeLevel": 4,
+            "zipcode": "28202",
+            "divisions": [
+                {
+                    "name": "Pod A",
+                    "teams": [
+                        {
+                            "abbreviation": "FSU",
+                            "name": "Florida State",
+                            "mascot": "Seminoles",
+                            "primaryColor": "#782F40",
+                            "secondaryColor": "#CEB888",
+                            "zipcode": "32306",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MIA"
+                        },
+                        {
+                            "abbreviation": "MIA",
+                            "name": "Miami",
+                            "mascot": "Hurricanes",
+                            "primaryColor": "#F05A00",
+                            "secondaryColor": "#005030",
+                            "zipcode": "33146",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "FSU"
+                        },
+                        {
+                            "abbreviation": "SYR",
+                            "name": "Syracuse",
+                            "mascot": "Orange",
+                            "primaryColor": "#D44500",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "13244",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "WF"
+                        },
+                        {
+                            "abbreviation": "WF",
+                            "name": "Wake Forest",
+                            "mascot": "Demon Deacons",
+                            "primaryColor": "#CEB888",
+                            "secondaryColor": "#2C2A29",
+                            "zipcode": "27109",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "SYR"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pod B",
+                    "teams": [
+                        {
+                            "abbreviation": "CLEM",
+                            "name": "Clemson",
+                            "mascot": "Tigers",
+                            "primaryColor": "#F56600",
+                            "secondaryColor": "#522D80",
+                            "zipcode": "29634",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "NC ST"
+                        },
+                        {
+                            "abbreviation": "NC ST",
+                            "name": "NC State",
+                            "mascot": "Wolfpack",
+                            "primaryColor": "#CC0000",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "27606",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "CLEM"
+                        },
+                        {
+                            "abbreviation": "DUKE",
+                            "name": "Duke",
+                            "mascot": "Blue Devils",
+                            "primaryColor": "#013088",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "27708",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "NC"
+                        },
+                        {
+                            "abbreviation": "NC",
+                            "name": "North Carolina",
+                            "mascot": "Tar Heels",
+                            "primaryColor": "#7BAFD4",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "27514",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "DUKE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pod C",
+                    "teams": [
+                        {
+                            "abbreviation": "VIR",
+                            "name": "Virginia",
+                            "mascot": "Cavaliers",
+                            "primaryColor": "#F84C1E",
+                            "secondaryColor": "#232D4B",
+                            "zipcode": "22903",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "VT"
+                        },
+                        {
+                            "abbreviation": "VT",
+                            "name": "Virginia Tech",
+                            "mascot": "Hokies",
+                            "primaryColor": "#861F41",
+                            "secondaryColor": "#E87722",
+                            "zipcode": "24060",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "VIR"
+                        },
+                        {
+                            "abbreviation": "GT",
+                            "name": "Georgia Tech",
+                            "mascot": "Yellow Jackets",
+                            "primaryColor": "#B3A369",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "30332",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "LOU"
+                        },
+                        {
+                            "abbreviation": "LOU",
+                            "name": "Louisville",
+                            "mascot": "Cardinals",
+                            "primaryColor": "#C9001F",
+                            "secondaryColor": "#000000",
+                            "zipcode": "40292",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "GT"
+                        }
+                    ]
+                },
+                {
+                    "name": "Pod D",
+                    "teams": [
+                        {
+                            "abbreviation": "ND",
+                            "name": "Notre Dame",
+                            "mascot": "Fighting Irish",
+                            "primaryColor": "#0C2340",
+                            "secondaryColor": "#C99700",
+                            "zipcode": "46556",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "BC"
+                        },
+                        {
+                            "abbreviation": "BC",
+                            "name": "Boston College",
+                            "mascot": "Eagles",
+                            "primaryColor": "#8C2232",
+                            "secondaryColor": "#DBCCA4",
+                            "zipcode": "02467",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ND"
+                        },
+                        {
+                            "abbreviation": "PITT",
+                            "name": "Pittsburgh",
+                            "mascot": "Panthers",
+                            "primaryColor": "#003594",
+                            "secondaryColor": "#FFB81C",
+                            "zipcode": "15213",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ND"
+                        },
+                        {
+                            "abbreviation": "NAVY",
+                            "name": "Navy",
+                            "mascot": "Midshipmen",
+                            "primaryColor": "#002F6C",
+                            "secondaryColor": "#FFB81C",
+                            "zipcode": "21401",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "PITT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "American",
+            "prestigeLevel": 10,
+            "zipcode": "99723",
+            "divisions": [
+                {
+                    "name": "American",
+                    "teams": [
+                        {
+                            "abbreviation": "UCF",
+                            "name": "Central Florida",
+                            "mascot": "Knights",
+                            "primaryColor": "#000000",
+                            "secondaryColor": "#B7A369",
+                            "zipcode": "32816",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "USF"
+                        },
+                        {
+                            "abbreviation": "USF",
+                            "name": "South Florida",
+                            "mascot": "Bulls",
+                            "primaryColor": "#006747",
+                            "secondaryColor": "#CFC493",
+                            "zipcode": "33620",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "UCF"
+                        },
+                        {
+                            "abbreviation": "CIN",
+                            "name": "Cincinnati",
+                            "mascot": "Bearcats",
+                            "primaryColor": "#E00122",
+                            "secondaryColor": "#000000",
+                            "zipcode": "45221",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "MEM"
+                        },
+                        {
+                            "abbreviation": "MEM",
+                            "name": "Memphis",
+                            "mascot": "Tigers",
+                            "primaryColor": "#004991",
+                            "secondaryColor": "#8E908F",
+                            "zipcode": "38152",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "CIN"
+                        },
+                        {
+                            "abbreviation": "HOU",
+                            "name": "Houston",
+                            "mascot": "Cougars",
+                            "primaryColor": "#C92A39",
+                            "secondaryColor": "#FFFFFF",
+                            "zipcode": "77004",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "SMU"
+                        },
+                        {
+                            "abbreviation": "SMU",
+                            "name": "SMU",
+                            "mascot": "Mustangs",
+                            "primaryColor": "#CC0035",
+                            "secondaryColor": "#354CA1",
+                            "zipcode": "75205",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "HOU"
+                        }
+                    ]
+                },
+                {
+                    "name": "National",
+                    "teams": [
+                        {
+                            "abbreviation": "ECU",
+                            "name": "East Carolina",
+                            "mascot": "Pirates",
+                            "primaryColor": "#592A8A",
+                            "secondaryColor": "#FDC82F",
+                            "zipcode": "83725",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "QUC"
+                        },
+                        {
+                            "abbreviation": "BSU",
+                            "name": "Boise State",
+                            "mascot": "Broncos",
+                            "primaryColor": "#0033A0",
+                            "secondaryColor": "#D64309",
+                            "zipcode": "83725",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ALA"
+                        },
+                        {
+                            "abbreviation": "TUL",
+                            "name": "Tulane",
+                            "mascot": "Green Wave",
+                            "primaryColor": "#005837",
+                            "secondaryColor": "#00A4D7",
+                            "zipcode": "70118",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "USM"
+                        },
+                        {
+                            "abbreviation": "USM",
+                            "name": "Southern Miss",
+                            "mascot": "Golden Eagles",
+                            "primaryColor": "#FFD046",
+                            "secondaryColor": "#000000",
+                            "zipcode": "39402",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "TUL"
+                        },
+                        {
+                            "abbreviation": "QUC",
+                            "name": "Queens",
+                            "mascot": "Royals",
+                            "primaryColor": "#192C66",
+                            "secondaryColor": "#857040",
+                            "zipcode": "28274",
+                            "attributes": {
+                                "stadium": 1,
+                                "facilities": 1,
+                                "collegeLife": 1,
+                                "academics": 1,
+                                "marketing": 1,
+                                "prestige": 1,
+                                "attendance": 1000,
+                                "fanbaseLevel": 1
+                            },
+                            "rivalAbbreviation": "ECU"
+                        },
+                        {
+                            "abbreviation": "ALA",
+                            "name": "Alaska Fairbanks",
+                            "mascot": "Nanooks",
+                            "primaryColor": "#1E59AE",
+                            "secondaryColor": "#FCD006",
+                            "zipcode": "99775",
+                            "attributes": {
+                                "stadium": 10,
+                                "facilities": 10,
+                                "collegeLife": 10,
+                                "academics": 10,
+                                "marketing": 10,
+                                "prestige": 10,
+                                "attendance": 80000,
+                                "fanbaseLevel": 10
+                            },
+                            "rivalAbbreviation": "BSU"
+                        }
